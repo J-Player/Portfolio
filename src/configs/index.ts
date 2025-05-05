@@ -33,6 +33,12 @@ export const projects: { [key in Language]: ProjectModel[] } = {
 	],
 	javascript: [
 		{
+			name: 'Smart-Market',
+			repository: 'https://github.com/J-Player/smart-market',
+			description:
+				'Projeto desenvolvido para ajudar pessoas a encontrar produtos de supermercados pelo menor preço. O projeto tem como principal objetivo ajudar consumidores a economizar tempo e dinheiro nas compras do dia-a-dia.'
+		},
+		{
 			name: 'Profanator',
 			repository: 'https://github.com/J-Player/Profanator',
 			description:
