@@ -16,7 +16,7 @@ const Home = ({ className }: { className?: string }) => {
 					<h2>Desenvolvedor Full-Stack</h2>
 				</div>
 				<div className="social-media-wrapper">
-					<a href="https://www.linkedin.com/in/joão-pedro-rodrigues-diniz-339a1a180/" target="_blank" rel="noreferrer">
+					<a href="https://www.linkedin.com/in/joao-pedro-rodrigues-diniz/" target="_blank" rel="noreferrer">
 						<img src="icons/socials/linkedin.svg" title="LinkedIn" alt="LinkedIn icon" />
 					</a>
 					<a href="https://github.com/J-Player" target="_blank" rel="noreferrer">

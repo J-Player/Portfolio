@@ -43,7 +43,7 @@ const About = ({ className }: { className?: string }) => {
 				</a>
 				<a
 					className="btn-linkedin"
-					href="https://www.linkedin.com/in/joão-pedro-rodrigues-diniz-339a1a180/"
+					href="https://www.linkedin.com/in/joao-pedro-rodrigues-diniz/"
 					target="_blank"
 					rel="noreferrer">
 					<img src="icons/socials/linkedin.svg" alt="" />
